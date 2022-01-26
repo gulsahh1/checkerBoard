@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\ASUS\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.pdb
